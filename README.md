@@ -1,4 +1,4 @@
-# Scrape Tool
+# Scrape Tool (Once the scraping was completed in 2019)
 
 "This program, named 'KensakuDownloader.py,' is designed to scrape content
 from the website 'ken-saku.jp/company_profile.php' with a range of IDs 
