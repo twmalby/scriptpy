@@ -1,12 +1,17 @@
 # Scrape Tool
 
-This program is designed di scrape the web site from  ken-saku.jp/company_profile.php?id=2.html 
-to ken-saku.jp/company_profile.php?id=160000.html
-The website contains company pages called as : 2.html, 3.html, 4.html, ..., 100000.html and so on.
-Using : KensakuDownloader.py
+"This program, named 'KensakuDownloader.py,' is designed to scrape content
+from the website 'ken-saku.jp/company_profile.php' with a range of IDs 
+from '2.html' to '160000.html.' The website hosts various company pages labeled sequentially,
+such as '2.html,' '3.html,' '4.html,' and so on up to '100000.html' and beyond.
 
-After that is it possible convert the content of the selected HTML pages
-into CSV
-launching: Kensaku2CSV.py
+Once the scraping is complete, the extracted content from the selected HTML 
+pages will be converted into a CSV format using another program called 'Kensaku2CSV.py.' 
+This conversion process will capture essential information such as Name, Address,
+Telephone (TEL), Fax (FAX), Website (Web), Email (Mail), and Comment from each company profile.
+These details will be organized into separate rows within the CSV file."
 
-That grabs the Name, Address, TEL, FAX, Web, Mail, Comment into CSV row.
+
+
+
+
